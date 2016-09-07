@@ -16,7 +16,7 @@ Tìm hiểu: Thi Minh Nhựt - Email: thiminhnhut@gmail.com
 		
 * Lệnh `tar`:
 
-	+ Giải nén file `*.tar`, `*.tar.xz`, `*.tar.gz`: [1]
+	+ Giải nén file `*.tar`, `*.tar.xz`, `*.tar.gz`: [1](http://askubuntu.com/questions/92328/how-do-i-uncompress-a-tarball-that-uses-xz)
 		
 			$ tar xf ten_file_tar
 
